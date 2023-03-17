@@ -1,0 +1,26 @@
+
+/* 
+        p{
+            color: red;
+        } */
+        /* #element1{
+            color: red;
+        }
+        #elements2{
+            color: blue;
+        } */
+        /* .large{
+            font-size: 50px;
+        }
+        .color{
+            color: red;
+        } */
+.custom-color{
+    color: black;
+}
+.cus-large{
+    width: 50px;
+}
+.custom-color2{
+    color: red;
+}
